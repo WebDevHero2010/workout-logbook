@@ -18,4 +18,4 @@
 
 # /log/:id -GET- Gets individual logs by id for individual user.
 
-![](images/Postman_Get_Individual_Log_by_id_for_Individual_User.png)
+![](images/Postman_Get_Individual_Log_by_id_for_individual_User.png)
