@@ -4,19 +4,19 @@ If you are getting started on this project We would recommend the following
 
 ## Create your folders
 
-- Middleware
-- Controllers
-- Models
+- Middleware (DONE)
+- Controllers (DONE)
+- Models (DONE)
 
 ## Create files
 
-- app.js
-- db.js
-- .env
-- .gitignore
+- app.js (DONE)
+- db.js (DONE)
+- .env (DONE)
+- .gitignore (DONE)
 
 ## Build As needed
 
-- user controller
-- log controller
-- validate session
+- user controller (DONE)
+- log controller (DONE)
+- validate session (DONE)
