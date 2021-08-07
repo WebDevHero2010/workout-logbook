@@ -30,7 +30,7 @@
 
 # /log/id -DELETE- Allows individual logs to be deleted by a user
 
-![](images/Postman_DELETE.png)
+![](images/Postman_Log_DELETE.png)
 
 # PGadmin After Delete
 
