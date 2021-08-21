@@ -40,11 +40,11 @@
 
 # Signup/Register new User (Before)
 
-![](images/Workout_Log_CLient_-_SignUpRegister_BEFORE.png)
+![](images/Workout_Log_Client_-_SignUpRegister_BEFORE.png)
 
 # Signup/Register new User (After)
 
-![](images/Workout_Log_CLient_-_SignUpRegister_AFTER.png)
+![](images/Workout_Log_Client_-_UPDATE_Log_AFTER.png)
 
 # Login (Before)
 
