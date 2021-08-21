@@ -35,3 +35,37 @@
 # PGadmin After Delete
 
 ![](images/pgAdmin4_LOG_TABLE_after_Delete.png)
+
+# !!!!Workout Log Server - Client!!!!
+
+# Signup/Register new User (Before)
+
+![](images/Workout_Log_CLient_-_SignUpRegister_BEFORE.png)
+
+# Signup/Register new User (After)
+
+![](images/Workout_Log_CLient_-_SignUpRegister_AFTER.png)
+
+# Login (Before)
+
+![](images/Workout_Log_Client_-_Login_with_user_BEFORE.png)
+
+# Login (After)
+
+![](images/Workout_Log_Client_-_Login_with_user_AFTER.png)
+
+# Create Log
+
+![](images/Workout_Log_Client_-_Create_LOG.png)
+
+# Delete Log
+
+![](images/Workout_Log_Client_-_DELETE_Log_AFTER.png)
+
+# Update Log (Before)
+
+![](images/Workout_Log_Client_-_UPDATE_Log_BEFORE.png)
+
+# Update Log (After)
+
+![](images/Workout_Log_Client_-_UPDATE_Log_AFTER.png)
